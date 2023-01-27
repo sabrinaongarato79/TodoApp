@@ -1,0 +1,18 @@
+Todo App
+Completar el proyecto Todo App  
+
+Metodo de entrega: Adjuntar el link de tu repositorio de GitHub por este medio
+
+Hasta el momento, hemos creado los endpoints para responder las consultas a usuarios
+
+Debes crear los siguientes endpoints para la tabla todos
+
+Obtener todas las tareas → GET localhost:8000/todos
+
+Obtener una tarea por su id → GET localhost:8000/todos/:id
+
+Crear una nuevo todo → POST localhost:8000/todos
+
+Actualizar un todo (actualizar la propiedad isComplete) → PUT localhost:8000/todos/:id
+
+Eliminar una tarea → DELETE localhost:8000/todos
